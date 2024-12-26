@@ -1,0 +1,50 @@
+## Target Persona for the QA Automation Engineer Course (Social QA Bootcamp Course)
+### Based on the 38 Questions about the target audience
+
+Income range
+Likely $45,000-90,000 (based on typical QA salaries, with manual testers on the lower end and automation engineers on the higher end)
+Age Range
+Primarily 25-45, covering both career switchers and experienced QA professionals looking to upskill
+Gender
+All genders; QA has relatively balanced gender representation compared to some other tech roles
+Occupation
+- Manual QA testers
+- Career switchers (often from adjacent fields like customer support or business analysis)
+- Recent bootcamp graduates
+- Junior QA professionals
+Education
+Mix of:
+- Self-taught
+- Bootcamp graduates
+- College degrees (often in non-CS fields)
+- Professional certifications
+Location
+- Major tech hubs
+- Remote workers
+- English-speaking countries primarily
+- Urban/suburban areas with tech presence
+Housing
+Mix of renters and owners, likely skewing toward renters in tech hubs due to cost of living
+Reading Material
+- Testing blogs (Ministry of Testing, etc.)
+- Tech Twitter/LinkedIn content
+- Programming tutorials
+- Career development books
+Viewing Habits
+- Tech YouTubers
+- LinkedIn learning videos
+- Tutorial content
+- Tech conference recordings
+Online Communities
+- Ministry of Testing forums
+- LinkedIn QA groups
+- Reddit (r/QualityAssurance, r/softwaretesting)
+- Discord tech communities
+- Twitter #TestingCommunity
+Awareness Levels
+- High awareness of need for automation skills
+- Medium awareness of personal branding importance
+- Mixed awareness of AI tools' potential
+- Variable awareness of modern testing practices
+- High awareness of market demand for automation skills
+These insights suggest focusing marketing on practical outcomes, mentorship value, and the unique combination of technical skills and personal branding your course offers.

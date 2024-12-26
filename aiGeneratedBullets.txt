@@ -1,0 +1,50 @@
+## AI-Generated Bullets
+
+### 1. Curiosity Bullets
+- The shocking reason why most QA automation courses are setting you up to fail (and how this one's different)
+- What top QA influencers never tell you about building a personal brand (hint: it's not what you think)
+- The counterintuitive LinkedIn strategy that helped my students land automation jobs in under 3 months
+- Three words that instantly destroy your credibility in automation interviews (99% of QA pros say them daily)
+- Why "Tutorial Hell" is actually a myth (and the real reason you're stuck)
+
+### 2. Can't Be Done Bullets
+- How to master Playwright automation while working a full-time job (using just 2 hours a day)
+- Build a job-winning automation portfolio without writing a single line of code from scratch
+- How to get 100+ LinkedIn followers in your first week of content creation (even if you're "not technical enough")
+- Test Amazon.com like a senior QA engineer (even if you're just starting with automation)
+- Transform from manual tester to automation expert in 8 weeks (without quitting your day job)
+
+### 3. Proof and Credibility Bullets
+- The exact framework used by 47 QA professionals to transition from manual to automation roles in 2023
+- A proven content creation system (used by top 1% QA influencers) that generates job offers on autopilot
+- The "bear hug" automation strategy that helped my student land a $120K remote position (with zero prior automation experience)
+- A scientifically-proven learning method (discovered by cognitive psychologists) that makes automation concepts stick permanently
+- The LinkedIn algorithm secret (revealed by an ex-LinkedIn engineer) that guarantees your QA content gets seen
+
+### 4. Contrast Bullets
+- Why "practicing more" is actually killing your automation career (and what to do instead)
+- The popular automation framework that's secretly making you less employable
+- How "building in public" can tank your career (if you don't follow this one rule)
+- Why top companies reject "experienced" automation engineers (and hire my students instead)
+- The common LinkedIn strategy that's actually making you invisible to recruiters
+
+### 5. Pain Bullets
+- Stop watching your peers land automation jobs while you're stuck in manual testing
+- Never feel like "just a manual tester" in technical discussions again
+- End the shame of having zero proof of your automation skills
+- Finally escape the endless cycle of tutorial videos that lead nowhere
+- Eliminate the paralyzing fear of posting your first piece of technical content
+
+### 6. Straight Benefits Bullets
+- Learn how to automate Amazon.com's core features using Playwright and TypeScript
+- Build 3 production-grade automation projects for your portfolio
+- Get personal feedback on your automation code from an experienced mentor
+- Receive step-by-step guidance for creating viral LinkedIn content
+- Join a community of QA professionals all working toward automation mastery
+
+### 7. What Not to Do Bullets
+- The five-word phrase in your LinkedIn bio that screams "junior tester" (even with 10 years of experience)
+- Three common automation practices that instantly expose you as an amateur
+- The deadly portfolio mistake that makes hiring managers skip your application
+- Two automation learning habits that guarantee you'll stay stuck in Tutorial Hell
+- The LinkedIn posting schedule that ensures your content gets buried (and what to do instead)

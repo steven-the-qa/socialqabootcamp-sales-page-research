@@ -1,0 +1,66 @@
+I'm the last person you should be asking for QA career advice by any traditional metric.
+I barely have 5 years of QA experience. My degree was in Spanish. My first QA job fell into my lap.
+But none of that matters, because I found another way to make a difference: becoming a Social QA.
+You think you want to land a QA job you love, or make over $100,000 a year. That’s why you’re reading this, because you know I’ve done both.
+I’ll tell you what you actually want in a moment, but first….
+
+Imagine…it’s a dewy morning at Trek Bicycle HQ.
+I'm walking across the parking lot, reflecting on my 'achievements':
+- Escaped customer service in 2020
+- Hit $105k salary in under 3 years of QA
+- Working on eBike software for a beloved bike company
+- Built two test automation solutions
+And I was miserable.
+Why? Because I'd lost what made my first QA job magical:
+- 100% remote work
+- Creating automation beyond my job description
+- Teaching teammates
+- Collaborating on wild side projects
+
+
+## The 1 thing your career depends on that no QA job can give you
+
+
+The real problem wasn't just money. It was agency.
+
+I realized I was trapped: Unable to choose my customers, projects, or days off. Dependent on employers. Ceiling on my income.
+So I decided to change everything:
+    I learned content writing so I wouldn’t be another profile in the LinkedIn Ocean.
+
+    Then I dabbled in email marketing so I wouldn’t be dependent on any social media platform.
+
+    I learned the basics of sales so I could get paid to learn new skills while helping other QA Engineers upskill for today’s job market.
+And this journey led me to achieve incredible things in the first 12 months:
+- Landing another job with a 20% higher salary
+- Mentoring QA around the world
+- Making my first open-source contribution
+- Giving my first paid conference talk
+- Having coffee chats with CEOs
+- Getting featured in Software Testing Weekly (twice)
+- Making $1000+ from digital products & services
+- and more…
+…all from posting content and sending emails.
+
+
+## The weird reason why learning together helps you teach yourself
+
+
+I knew nobody was making courses on this, especially not for QA Engineers.
+
+So I reverse-engineered my 5-year career and came up with a system that allows you to download my most valuable skills into your brain in less than 6 months.
+Instead of making you teach yourself with video lectures, I made a course where you and I work together to accomplish your learning goals.
+I designed a curriculum that doesn't simply train you, but teaches you how to learn.
+This is infinitely more valuable because your success in QA — and in life — depends on your ability to learn skills most people are not talking about yet.
+It's how you stay ahead of the curve and get first dibs on jobs asking for bleeding-edge skills.
+It's how I had 1 year of Playwright experience when most people had 0.
+
+
+## The accountability advantage most greedy instructors are too ‘busy’ to offer
+
+
+But I learned quickest when I had a mentor guiding me or a coach holding me accountable.
+I'm going to be both of those for you in this course.
+I got sick and tired of seeing courses that were clearly from lazy instructors who'd rather sell than teach.
+This course is designed to build your confidence as a QA Engineer, because confident people can learn whatever they want.
+You deserve to have that freedom.
+I spent 5 years in the trenches writing bad tests, broken test frameworks, sloppy bug reports, boring content, and generally messing up in every area of QA and content-writing, so you can have all the lessons without the scars, and without the stress of learning it all by yourself.

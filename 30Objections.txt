@@ -1,0 +1,75 @@
+30 Major Social QA Bootcamp Objections (Ranked by Frequency)
+
+Cost & Value Objections:
+1. "The course is expensive compared to Udemy courses"
+2. "I can learn automation from free YouTube tutorials"
+3. "I've already spent too much on bootcamps that didn't work"
+4. "LinkedIn content creation should be free to learn"
+5. "I can't afford another course while supporting my family"
+
+Credibility Concerns:
+6. "There are too many QA courses out there already"
+7. "The instructor might not understand my struggles"
+8. "The testimonials could be from friends"
+9. "Building in public seems like a gimmick"
+10. "Real QA experts don't teach courses"
+
+Time & Balance Doubts:
+11. "I don't have time with my current QA job"
+12. "Content creation takes too much time"
+13. "The course might be too intensive"
+14. "I can't balance family life with more studying"
+15. "Writing LinkedIn posts daily seems impossible"
+
+Technical Capability Fears:
+16. "I'm not technical enough for automation"
+17. "My programming skills are too basic"
+18. "I might fail at the practical projects"
+19. "I won't understand the Playwright framework"
+20. "My English isn't good enough for content creation"
+
+Social Anxiety Barriers:
+21. "I'm too scared to post on LinkedIn"
+22. "Building in public seems terrifying"
+23. "I might embarrass myself online"
+24. "The community might judge my posts"
+25. "I'm not confident enough to share my journey"
+
+Market Relevance Concerns:
+26. "AI might make this obsolete soon"
+27. "The job market might change"
+28. "These skills might not transfer globally"
+29. "The strategies might not work in my region"
+30. "Manual testing might disappear entirely"
+
+Common Themes Analysis:
+
+1. Financial Concerns
+   - Price sensitivity and ROI expectations
+   - Comparison with cheaper/free alternatives
+   - Family financial responsibilities
+   - Previous negative investment experiences
+
+2. Self-Doubt
+   - Technical capability concerns
+   - Language and communication barriers
+   - Fear of public exposure
+   - Imposter syndrome feelings
+
+3. Time Management
+   - Work-life balance challenges
+   - Course intensity worries
+   - Daily content creation commitment
+   - Family responsibilities
+
+4. Industry Uncertainty
+   - AI and automation impact
+   - Job market evolution
+   - Geographic relevance
+   - Future of manual testing
+
+5. Trust and Authenticity
+   - Course differentiation
+   - Instructor credibility
+   - Success story verification
+   - Teaching methodology effectiveness

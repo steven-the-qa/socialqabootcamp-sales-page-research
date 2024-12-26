@@ -1,0 +1,136 @@
+## 20 Refined Points for the QA Automation Engineer Course (Social QA Bootcamp Course)
+### Insights into the target audience of my course
+
+1. What keeps them awake at night?
+
+Job security in an AI-driven future
+Falling behind in automation skills
+Missing out on better opportunities due to lack of technical skills
+
+2. What are the top things they're terrified of, listed in order?
+Being replaced by AI/automation
+Never breaking into QA automation roles
+Making public mistakes when "building in public"
+Being exposed as an imposter when sharing content on LinkedIn
+Wasting time/money on another course that doesn't lead to results
+3. What causes them pain?
+Rejection from QA automation jobs
+Feeling stuck in manual testing roles
+Information overload from lengthy video courses
+Isolation while learning complex topics
+Lack of portfolio/proof of skills
+4. What are their insecurities?
+Technical skill gaps, especially in automation
+Ability to learn programming/TypeScript effectively
+Public speaking/writing ability for LinkedIn content
+Standing out in a competitive job market
+5. What makes them angry?
+
+Frustration with traditional learning resources
+Anxiety about career progression
+Self-doubt about technical abilities
+ Companies prioritizing automation over manual testing
+
+6. Who are they blaming for their problems?
+
+Frustration with traditional learning resources
+Anxiety about career progression
+Self-doubt about technical abilities
+ Companies prioritizing automation over manual testing
+
+7. What do they worry most about?
+
+Frustration with traditional learning resources
+Anxiety about career progression
+Self-doubt about technical abilities
+ Companies prioritizing automation over manual testing
+
+8. What are their values like?
+Continuous learning
+Professional growth
+Work-life balance
+Job security
+Community support
+9. What is their most urgent hot button crisis right now?
+
+
+Needing to transition from manual to automation testing before it's "too late"
+
+10. What three things frustrate them the most each day?
+Time management between work and learning
+Understanding complex technical concepts
+Finding practical ways to apply what they're learning
+11. What do they want more than anything?
+
+
+Job security and career advancement through practical, proven automation skills they can demonstrate to employers
+
+12. Who exactly are the main buyers for this product?
+Manual QA testers looking to upskill
+Career switchers with basic programming knowledge
+QA professionals wanting to build a personal brand
+Recently laid-off tech workers looking to increase employability
+13. Are they in debt?
+Likely some debt from education/bootcamps
+May be investing in multiple courses/resources
+Could be between jobs or looking to increase current income
+14 . What do they feel guilty about?
+Not starting automation learning sooner
+Time spent on courses without practical application
+Procrastination on building portfolio
+Not being "technical enough"
+15. What are the biggest mistakes your prospects are making that your product can help them stop making?
+Passive learning without practical application
+Not building a personal brand
+Learning in isolation without mentorship
+Following outdated testing practices
+Not leveraging AI tools effectively
+16. What is the number one most urgent hot button problem they're attempting to solve right now?
+
+
+Getting practical automation experience that can be demonstrated to employers
+
+17. What feeling are they experiencing when they're doing a Google search or engaging in whatever media you use to generate your leads?
+Overwhelmed by options
+Anxious about making the right choice
+Hopeful about finding a solution
+Frustrated with traditional courses
+18. How do you want the visitor to feel when they arrive on your site or see your sales letter?
+Relief at finding a practical solution
+Confidence in the structured approach
+Trust in the mentor-supported learning
+Excitement about building real projects
+19. What do they secretly fantasise about having the most in life?
+Landing a remote automation role
+Being recognized as a thought leader
+Having financial security
+Work-life balance with higher pay
+20. What kind of slang do they use in everyday conversations?
+"E2E" (End-to-End Testing)
+"Flaky tests"
+"Test coverage"
+"CI/CD"
+"Sprint"
+Additional Insights
+Key Pain Points
+Not confident about their writing or English-speaking ability (LinkedIn content)
+Automation is difficult to learn on your own
+Core Desires
+Get a high-paying QA job
+Feel more confident
+Be seen as an authority in QA
+Success Metrics
+Employability
+Confidence
+Competence
+Perceived authority
+Learning Style Preferences
+Visual (images, videos)
+Auditory (audio lessons to accompany text)
+Hands-on/Project-based (mini-projects to apply learnings)
+Real-world projects (testing the Amazon website, posting content on LinkedIn)
+Collaborative (learning community, 1:1 help)
+1:1 mentoring (weekly check-in calls)
+Imitation (step-by-step guides, code examples)
+
+
